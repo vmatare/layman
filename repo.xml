@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<repositories vareion="1.0">
+	<repo priority="50" quality="experimental" status ="unofficial">
+		<name>robotics</name>
+		<description>Overlay to maintain the dependecies for fawkes</description>
+		<owner>
+			<name>Victor Mataré</name>
+		</owner>
+		<source type="git">https://github.com/vmatare/robotics.git</source>
+	</repo>
+	<repo priority="50" quality="experimental" status ="unofficial">
+		<name>Gentoo fixes</name>
+		<description>Miscellaneous fixes for Gentoo packages</description>
+		<owner>
+			<name>Victor Mataré</name>
+		</owner>
+		<source type="git">https://github.com/vmatare/gentoo-fixes.git</source>
+	</repo>
+</repositories>
